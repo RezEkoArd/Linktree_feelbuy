@@ -5,7 +5,7 @@ function App() {
   const links = [
     {
       text: "Check Katalog Terbaru kami",
-      link: "https://github.com",
+      link: "https://drive.google.com/drive/folders/1p8SNXhUZjml5bw-ZXEJ5ZZuXW9nEQtwi?usp=sharing",
     },
     {
       text: "Pesan Sekarang",
