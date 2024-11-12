@@ -9,11 +9,11 @@ function App() {
     },
     {
       text: "Pesan Sekarang",
-      link: "https://github.com",
+      link: "https://api.whatsapp.com/send/?phone=6285817898825&text=Halo,%20saya%20tertarik%20untuk%20membeli%20produk%20LocknLock%20dan%20HanSoul%20dari%20koleksi%20Anda.&type=phone_number&app_absent=0",
     },
     {
       text: "Tanya Lebih Lanjut",
-      link: "https://github.com",
+      link: "https://api.whatsapp.com/send/?phone=628134559903&text=Halo%2C+saya+tertarik+untuk+mengetahui+lebih+banyak+tentang+produk+HanSoul+dan+LocknLock+yang+tersedia.+Bisakah+Anda+berbagi+informasi+tentang+produk+terbaik+di+koleksi+Anda%3F&type=phone_number&app_absent=0",
     },
   ];
 
